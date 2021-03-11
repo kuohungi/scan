@@ -1,2 +1,2 @@
-# scan_video
- document scanner (video)
+# scan
+ document scanner
